@@ -19,6 +19,15 @@
 
 ## 🏆 Bootcamp DIO
 
+<div align="center">
+
+[![DIO](https://img.shields.io/badge/DIO-000?style=for-the-badge&logo=github&logoColor=white)](https://www.dio.me/)
+
+**Coding The Future BairesDev - Machine Learning Practitioner**  
+*Bootcamp completo com projetos práticos em Machine Learning*
+
+</div>
+
 
 
 ## 📈 Estatísticas
