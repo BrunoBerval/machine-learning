@@ -140,4 +140,55 @@ graph TD
     F --> H[Assistente Virtual]
 
 
+## 🛠️ Stack Tecnológica Principal
+
+```python
+tech_stack = {
+    "Linguagem": "Python",
+    "Deep Learning": ["TensorFlow", "Keras", "PyTorch"],
+    "Visão Computacional": ["OpenCV", "YOLO", "Dlib"],
+    "Processamento": ["NLP", "Speech Recognition"],
+    "Análise": ["PCA", "t-SNE", "Autoencoders"],
+    "Ferramentas": ["Jupyter", "Google Colab", "Git"]
+}
+
+
+## 📈 Estatísticas
+
+![Progresso](https://img.shields.io/badge/Projetos_Concluídos-7/7-brightgreen)
+![Status](https://img.shields.io/badge/Status-Bootcamp_Completo-success)
+
+---
+
+## 🔗 Links Úteis
+
+- 🌐 [Site Oficial da DIO](https://www.dio.me/)
+- 📚 [Documentação Python](https://docs.python.org/3/)
+- 🧠 [TensorFlow Documentation](https://www.tensorflow.org/)
+- 👁️ [OpenCV Documentation](https://docs.opencv.org/)
+
+---
+
+<div align="center">
+
+### 🎯 Próximos Passos  
+
+*Explore os projetos clicando nos badges acima ou contribua com sugestões!*  
+
+**Desenvolvido com ❤️ por [Bruno Berval](https://github.com/BrunoBerval)**  
+
+</div>
+
+---
+
+## 📄 Licença
+
+Este repositório é open-source e está disponível sob a licença MIT.  
+Consulte os repositórios individuais para licenças específicas de cada projeto.
+
+---
+
+*Última atualização: $(date)*  
+
+Esse README fornece uma visão completa e profissional de todos os meus projetos de Machine Learning, com navegação fácil, badges estilizados e organização clara por tópicos! 🚀  
 
