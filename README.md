@@ -6,16 +6,15 @@
 
 | Projeto | Descrição | Status | Dificuldade |
 |---------|-----------|--------|-------------|
-| [**Transfer Learning**](#-transfer-learning) | Implementação de Transfer Learning em Python | ✅ Concluído | 🟢 Iniciante |
-| [**Redução de Dimensionalidade**](#️-redução-de-dimensionalidade) | Redução de dimensionalidade em imagens para redes neurais | ✅ Concluído | 🟡 Intermediário |
-| [**Métricas de Avaliação**](#️-métricas-de-avaliação) | Cálculo de métricas de avaliação de aprendizado | ✅ Concluído | 🟢 Iniciante |
-| [**Treinamento YOLO**](#-treinamento-yolo) | Criação de base de dados e treinamento da rede YOLO | ✅ Concluído | 🔴 Avançado |
-| [**Reconhecimento Facial**](#-reconhecimento-facial) | Sistema de reconhecimento facial do zero | ✅ Concluído | 🟡 Intermediário |
-| [**Sistema de Recomendação**](#-sistema-de-recomendação) | Sistema de recomendação por imagens digitais | ✅ Concluído | 🟡 Intermediário |
-| [**Assistente Virtual**](#-assistente-virtual) | Sistema de assistência virtual do zero | ✅ Concluído | 🔴 Avançado |
+| [**Transfer Learning**](https://github.com/BrunoBerval/dio_project) | Implementação de Transfer Learning em Python | ✅ Concluído | 🟢 Iniciante |
+| [**Redução de Dimensionalidade**](https://github.com/BrunoBerval/dio_project2) | Redução de dimensionalidade em imagens para redes neurais | ✅ Concluído | 🟡 Intermediário |
+| [**Métricas de Avaliação**](https://github.com/BrunoBerval/dio_project3) | Cálculo de métricas de avaliação de aprendizado | ✅ Concluído | 🟢 Iniciante |
+| [**Treinamento YOLO**](https://github.com/BrunoBerval/dio_project4) | Criação de base de dados e treinamento da rede YOLO | ✅ Concluído | 🔴 Avançado |
+| [**Reconhecimento Facial**](https://github.com/BrunoBerval/dio_project5) | Sistema de reconhecimento facial do zero | ✅ Concluído | 🟡 Intermediário |
+| [**Sistema de Recomendação**](https://github.com/BrunoBerval/dio_project6) | Sistema de recomendação por imagens digitais | ✅ Concluído | 🟡 Intermediário |
+| [**Assistente Virtual**](https://github.com/BrunoBerval/dio_project7) | Sistema de assistência virtual do zero | ✅ Concluído | 🔴 Avançado |
 
 ---
-
 
 ## 🏆 Bootcamp DIO
 
@@ -28,7 +27,7 @@
 
 </div>
 
-
+---
 
 ## 📈 Estatísticas
 
@@ -45,5 +44,6 @@
 - 👁️ [OpenCV Documentation](https://docs.opencv.org/)
 
 ---
+
  
 
